@@ -1,5 +1,5 @@
 (function () {
-    const targetUrl = "https://blancbeu.online";
+    const targetUrl = "https://blancbeu.in";
     let timeLeft = 5;
     const countdownEl = document.getElementById('countdown');
     const redirectBtn = document.getElementById('redirect-btn');
